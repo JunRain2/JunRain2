@@ -25,7 +25,6 @@
 <p><strong>Tools</strong></p>
 <div align="left">
     <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Xcode-007ACC.svg?style=flat-square&logo=xcode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=FFFFFF" />
